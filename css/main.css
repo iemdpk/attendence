@@ -1,0 +1,97 @@
+.deepak
+{
+    background-color:seagreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    max-width: 100%;  
+}
+.banner
+{
+    background-color: #d6d6d6;
+    width: 1850px;
+    border: solid;
+    height: 200px;
+    max-width: 100%;
+}
+.picture
+{
+    
+    border-right: solid;
+    max-width: 100%;
+    height: 700px;
+    width: 50%;
+}
+.registration
+{
+    width: 930px;
+    max-width: 100%;
+}
+.student
+{
+    display: inline-block;
+    border:solid;
+    margin-left: 30%;
+    max-width: 100%;
+}
+input[type="text"]
+{
+    font-size: 20px;
+    max-width: 100%;
+}
+input[type="number"]
+{
+    font-size: 25px;
+    max-width: 100%;
+}
+input[type="submit"]
+{
+    padding: 5px 50px;
+    text-align: center;
+    max-width: 100%;
+}
+.heading
+{
+    font-size: 35px;
+    border-bottom: solid;
+    max-width: 100%;
+}
+div
+{
+    border: 2px solid black;
+    height: 600px;
+    margin-left:20%;
+    margin-bottom: 1%;
+    overflow: scroll;
+    max-width: 62%;
+    display: inline-block;
+    
+}
+.main-table
+{
+    max-width: 100%;
+}
+.deepak
+{
+    max-width: 100%;
+}
+.main-list
+{
+    max-width: 100%;
+}
+.submission
+{
+    margin-left: 140%;
+}
+.chatai
+{
+
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    text-align: center;
+    padding:5px;
+}
+.send
+{ 
+    margin-left:30%;
+}
